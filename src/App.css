@@ -1,0 +1,109 @@
+*:not(.scroll-down, .logo){
+  background-color: #F5EBDC;
+  overflow-x: hidden;
+}
+.App-header{
+  height: 17.5vh;
+  position:fixed;
+  top: 0;
+  width: 100%;
+  padding-left: 7vw;
+  padding-top: 2vh;
+  background: linear-gradient(180deg, rgba(245,235,220, 1) 30%, rgba(245,235,220,.975) 45%, rgba(245,235,220,.85) 70%, rgba(245,235,220,.75) 80%,rgba(255,255,255,0) 100%);
+  z-index: 1;
+}
+.App {
+  color: #283044;
+  margin: auto;
+}
+
+
+.icon{
+  margin: 1em .4em;
+  background-color: transparent;
+}
+
+.logo {
+  height: 100%;
+  text-decoration: none;
+  font-weight: 600;
+  color:#283044;
+  text-align: center;
+  font-size: 3em;
+  letter-spacing: .5em;
+}
+
+main {
+  text-align: center;
+}
+.main-section{
+  margin-top: 100px;
+  height: 85vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  overflow-y: hidden;
+}
+h2 {
+  font-size: 3em;
+  margin: 0;
+}
+h3 {
+  font-size: 1.75em;
+  font-weight: bold;
+}
+.scroll-container {
+  display: inline-block;
+  white-space: nowrap;
+  display: flex;
+  overflow: hidden;
+  white-space: nowrap;
+  width: fit-content;
+  animation: move 10s infinite linear forwards;
+}
+
+.scroll-container h1 {
+  font-size: 22.5em;
+  margin: 0;
+  padding-right: .25em;
+  vertical-align: middle;
+  line-height: 1;
+  height: .6em;
+  overflow-y: hidden;
+  padding-bottom: .5em;
+}
+
+@keyframes move {
+  to {
+    transform: translateX(-50%);
+  }
+}
+.grow:hover {
+  animation: grow-bounce 0.5s ease forwards;
+  cursor: pointer;
+}
+
+.grow:not(:hover) {
+  animation: shrink-bounce 0.8s ease forwards;
+}
+
+@keyframes shrink-bounce {
+  0% {
+    transform: scale(1.3);
+  }
+  30% {
+    transform: scale(0.85);
+  }
+  80% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+@keyframes grow-bounce {
+  100% {
+    transform: scale(1.3);
+  }
+}
