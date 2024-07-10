@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.af69bea7.css",
+    "main.js": "/portfolio/static/js/main.f60697be.js",
+    "static/js/453.32bc8d24.chunk.js": "/portfolio/static/js/453.32bc8d24.chunk.js",
+    "static/media/AutoCloseLeft.png": "/portfolio/static/media/AutoCloseLeft.1d0fd8ca90c76a8491f7.png",
+    "static/media/AutoClose.ico": "/portfolio/static/media/AutoClose.1e3e7d33f4a29570bffc.ico",
+    "static/media/PortfolioRight.png": "/portfolio/static/media/PortfolioRight.51cfc6e2b70d7cf90096.png",
+    "static/media/AutoClose.png": "/portfolio/static/media/AutoClose.5c7960ad3b8d65001393.png",
+    "static/media/CalculatorRight.png": "/portfolio/static/media/CalculatorRight.ad17e579b10431ffba7a.png",
+    "static/media/CalculatorLeft.png": "/portfolio/static/media/CalculatorLeft.cee98db52bcb8997d945.png",
+    "static/media/TCTools.ico": "/portfolio/static/media/TCTools.3d73d814ff0a74e6a0b5.ico",
+    "static/media/Portfolio.png": "/portfolio/static/media/Portfolio.17c79dbec7cadd1aad1b.png",
+    "static/media/PortfolioLeft.png": "/portfolio/static/media/PortfolioLeft.17c79dbec7cadd1aad1b.png",
+    "static/media/Calculator.png": "/portfolio/static/media/Calculator.d3f77d1d7a9bf8464526.png",
+    "static/media/TCToolsRight.png": "/portfolio/static/media/TCToolsRight.8c2041e30eaccfe2441e.png",
+    "static/media/TCToolsLeft.png": "/portfolio/static/media/TCToolsLeft.5e067de26faef016f3e0.png",
+    "static/media/TCTools.png": "/portfolio/static/media/TCTools.2df35fdd02f7f9e8b235.png",
+    "static/media/Calculator.ico": "/portfolio/static/media/Calculator.445904f531263037764a.ico",
+    "static/media/Portfolio.ico": "/portfolio/static/media/Portfolio.c877fee94e5759d185c3.ico",
+    "index.html": "/portfolio/index.html",
+    "main.af69bea7.css.map": "/portfolio/static/css/main.af69bea7.css.map",
+    "main.f60697be.js.map": "/portfolio/static/js/main.f60697be.js.map",
+    "453.32bc8d24.chunk.js.map": "/portfolio/static/js/453.32bc8d24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af69bea7.css",
+    "static/js/main.f60697be.js"
+  ]
+}
