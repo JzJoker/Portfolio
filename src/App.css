@@ -343,27 +343,27 @@ footer {
 }
 @media only screen and (max-width:450px){
   .grid-container {
-    row-gap: 110px;
+    row-gap: 120px;
   }
 }
 @media only screen and (max-width:420px){
   .grid-container {
-    row-gap: 80px;
+    row-gap: 110px;
   }
 }
 @media only screen and (max-width:410px){
   .grid-container {
-    row-gap: 90px;
+    row-gap: 100px;
   }
 }
 @media only screen and (max-width:400px){
   .grid-container {
-    row-gap: 70px;
+    row-gap: 90px;
   }
 }
 @media only screen and (max-width:375px){
   .grid-container {
-    row-gap: 60px;
+    row-gap: 80px;
   }
 }
 @media only screen and (max-width:350px){
