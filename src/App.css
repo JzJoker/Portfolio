@@ -38,6 +38,8 @@ html {
 .icon{
   margin: 2vh 1vh;
   background-color: transparent;
+}
+.main-section .icon {
   height: 4.5vh;
 }
 
@@ -164,7 +166,8 @@ h3 {
   width: 100%;
 }
 .small-box .icon {
-  width: 10%;
+  height: 1.5lh;
+  width: auto;
 }
 .big-box .image1 {
   width: 63.5%;
@@ -214,13 +217,13 @@ footer {
   }
 }
 @media only screen and (max-width: 700px){
-  .big-box .big-box-single{
+  .big-box, .big-box-single{
     display: none;
   }
   .grid-container{
     grid-template-columns: 40vw 40vw;
   }
-  .small-box, .big-box, .big-box-single {
+  .small-box, .big-box-single {
     height: 40vw;
   }
 }
