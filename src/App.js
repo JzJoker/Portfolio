@@ -39,7 +39,7 @@ function App() {
           </div>
         </section>
         <section className="projects">
-          <h3>Projects/Experience</h3>
+          <h3 className='section-name'>Projects/Experience</h3>
           <div className="grid-container">
             <Project name="TC-Tools" icon={TCToolsIcon} image1={require("./assets/images/TCTools.png")}
                     image2={require("./assets/images/TCToolsLeft.png")} image3={require("./assets/images/TCToolsRight.png")}

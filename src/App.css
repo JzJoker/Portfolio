@@ -68,12 +68,14 @@ main {
 }
 h2 {
   font-size: 5.5vh;
-  margin: 0;
 }
 h3 {
   font-size: 4vh;
   font-weight: bold;
   margin:0;
+}
+.section-name {
+  margin-bottom: 30px;
 }
 .scroll-container {
   display: inline-block;
@@ -212,7 +214,7 @@ footer {
   }
 }
 @media only screen and (max-width: 700px){
-  .big-box {
+  .big-box .big-box-single{
     display: none;
   }
   .grid-container{
