@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.c57b450f.css",
-    "main.js": "/Portfolio/static/js/main.c6f18774.js",
-    "static/js/453.32bc8d24.chunk.js": "/Portfolio/static/js/453.32bc8d24.chunk.js",
-    "static/media/AutoCloseLeft.png": "/Portfolio/static/media/AutoCloseLeft.1d0fd8ca90c76a8491f7.png",
-    "static/media/AutoClose.ico": "/Portfolio/static/media/AutoClose.1e3e7d33f4a29570bffc.ico",
-    "static/media/PortfolioRight.png": "/Portfolio/static/media/PortfolioRight.51cfc6e2b70d7cf90096.png",
-    "static/media/AutoClose.png": "/Portfolio/static/media/AutoClose.5c7960ad3b8d65001393.png",
-    "static/media/CalculatorRight.png": "/Portfolio/static/media/CalculatorRight.ad17e579b10431ffba7a.png",
-    "static/media/CalculatorLeft.png": "/Portfolio/static/media/CalculatorLeft.cee98db52bcb8997d945.png",
-    "static/media/TCTools.ico": "/Portfolio/static/media/TCTools.3d73d814ff0a74e6a0b5.ico",
-    "static/media/Portfolio.png": "/Portfolio/static/media/Portfolio.17c79dbec7cadd1aad1b.png",
-    "static/media/PortfolioLeft.png": "/Portfolio/static/media/PortfolioLeft.17c79dbec7cadd1aad1b.png",
-    "static/media/Calculator.png": "/Portfolio/static/media/Calculator.d3f77d1d7a9bf8464526.png",
-    "static/media/TCToolsRight.png": "/Portfolio/static/media/TCToolsRight.8c2041e30eaccfe2441e.png",
-    "static/media/TCToolsLeft.png": "/Portfolio/static/media/TCToolsLeft.5e067de26faef016f3e0.png",
-    "static/media/TCTools.png": "/Portfolio/static/media/TCTools.2df35fdd02f7f9e8b235.png",
-    "static/media/Calculator.ico": "/Portfolio/static/media/Calculator.445904f531263037764a.ico",
-    "static/media/Portfolio.ico": "/Portfolio/static/media/Portfolio.c877fee94e5759d185c3.ico",
-    "index.html": "/Portfolio/index.html",
-    "main.c57b450f.css.map": "/Portfolio/static/css/main.c57b450f.css.map",
-    "main.c6f18774.js.map": "/Portfolio/static/js/main.c6f18774.js.map",
-    "453.32bc8d24.chunk.js.map": "/Portfolio/static/js/453.32bc8d24.chunk.js.map"
+    "main.css": "/static/css/main.c57b450f.css",
+    "main.js": "/static/js/main.f4ec2e9f.js",
+    "static/js/453.32bc8d24.chunk.js": "/static/js/453.32bc8d24.chunk.js",
+    "static/media/AutoCloseLeft.png": "/static/media/AutoCloseLeft.1d0fd8ca90c76a8491f7.png",
+    "static/media/AutoClose.ico": "/static/media/AutoClose.1e3e7d33f4a29570bffc.ico",
+    "static/media/PortfolioRight.png": "/static/media/PortfolioRight.51cfc6e2b70d7cf90096.png",
+    "static/media/AutoClose.png": "/static/media/AutoClose.5c7960ad3b8d65001393.png",
+    "static/media/CalculatorRight.png": "/static/media/CalculatorRight.ad17e579b10431ffba7a.png",
+    "static/media/CalculatorLeft.png": "/static/media/CalculatorLeft.cee98db52bcb8997d945.png",
+    "static/media/TCTools.ico": "/static/media/TCTools.3d73d814ff0a74e6a0b5.ico",
+    "static/media/Portfolio.png": "/static/media/Portfolio.17c79dbec7cadd1aad1b.png",
+    "static/media/PortfolioLeft.png": "/static/media/PortfolioLeft.17c79dbec7cadd1aad1b.png",
+    "static/media/Calculator.png": "/static/media/Calculator.d3f77d1d7a9bf8464526.png",
+    "static/media/TCToolsRight.png": "/static/media/TCToolsRight.8c2041e30eaccfe2441e.png",
+    "static/media/TCToolsLeft.png": "/static/media/TCToolsLeft.5e067de26faef016f3e0.png",
+    "static/media/TCTools.png": "/static/media/TCTools.2df35fdd02f7f9e8b235.png",
+    "static/media/Calculator.ico": "/static/media/Calculator.445904f531263037764a.ico",
+    "static/media/Portfolio.ico": "/static/media/Portfolio.c877fee94e5759d185c3.ico",
+    "index.html": "/index.html",
+    "main.c57b450f.css.map": "/static/css/main.c57b450f.css.map",
+    "main.f4ec2e9f.js.map": "/static/js/main.f4ec2e9f.js.map",
+    "453.32bc8d24.chunk.js.map": "/static/js/453.32bc8d24.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c57b450f.css",
-    "static/js/main.c6f18774.js"
+    "static/js/main.f4ec2e9f.js"
   ]
 }
